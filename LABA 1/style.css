@@ -70,17 +70,17 @@ img{
 body {
     margin: 0;
     padding: 0;
-    background-color: #dde19e;
+    background-color: #9ec7e1;
     display: flex;
     justify-content: center;
     align-items: flex-start;
-    height: 100vh;
+    height: auto;
 }
 
 .content {
     width: 100%;
-    max-width: 1440px;
-    margin: 0 auto;
+    max-width: 1100px;
     padding: 20px;
     height: 100%;
 }
+
