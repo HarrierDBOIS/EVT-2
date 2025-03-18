@@ -48,9 +48,3 @@ article {
 .second-row article {
     width: calc(50% - 40px);
 }
-
-.radio-container {
-    display: flex;
-    gap: 10px;
-    /*отступ между элементом*/
-}
